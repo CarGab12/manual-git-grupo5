@@ -33,11 +33,11 @@ Se não houver conflitos, o Git fará o merge automaticamente.
 Se dois arquivos foram modificados nas duas branches, o Git mostrará um conflito.
 
 Você verá algo assim no arquivo:
-<<<<<<< HEAD
+HEAD
 código da branch atual
-==========
+
 código da branch que está sendo mesclada
->>>>>>> nova-funcionalidade
+nova-funcionalidade
 
 Como Resolver:
 Edite o arquivo e escolha qual código manter (ou combine os dois).

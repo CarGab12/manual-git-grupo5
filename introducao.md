@@ -39,6 +39,3 @@ O Git foi criado em **2005 por Linus Torvalds**, o mesmo criador do Linux. A ide
 > **Resumo:** Git é a ferramenta, GitHub é onde você compartilha com o mundo.
 
 ---
-
-**Exemplo visual de como o Git organiza versões:**
-

@@ -1,9 +1,9 @@
 ## GitHub e Pull Requests.
 
-##O que é um Pull Request (PR)?
+## O que é um Pull Request (PR)?
 Um Pull Request (PR) é uma solicitação para que as modificações feitas em uma b>
 
-##Passo a Passo para Criar um Pull Request.
+## Passo a Passo para Criar um Pull Request.
 1. Crie uma nova branch para suas alterações,
 $ git checkout -b nome-da-sua-branch
 

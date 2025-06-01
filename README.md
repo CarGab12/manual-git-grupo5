@@ -3,7 +3,7 @@ Este é um manual colaborativo para iniciantes em Git e GitHub.
 ## Integrantes
 
 - [Carlos Nascimento](https://github.com/cargab12)
-- [Ricardo](https://github.com/joao-ficticio)
+- [Ricardo Mantovi](https://github.com/RicardoMantovi7)
 
 ## Índice
 
